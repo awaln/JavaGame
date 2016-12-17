@@ -7,7 +7,7 @@
     <!--This is where a normal set of ids would go, but this is a pet project so I am not worrying about it yet.-->
     <groupId>awaln</groupId>
     <artifactId>JavaGame</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.0</version>
 
     <build>
         <plugins>
